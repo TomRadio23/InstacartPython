@@ -4,10 +4,10 @@ Python-based Instacart database analysis project for Career Foundry course.
 This data analysis project focuses on deriving valuable insights from Instacart's database to support the development of a targeted marketing strategy. The objective is to perform a data analysis to gain a deeper understanding of sales patterns and customer behaviors.
 # Data
 Four datasets were provided with the following information:
-## • Orders
-## • Orders_products_prio
-## • Products
-## • Customers
+### • Orders
+### • Orders_products_prio
+### • Products
+### • Customers
 # Directory Structure:
 The basket analysis project is organized into the following five folders:
 Project Management: This folder contains the Project Brief.
